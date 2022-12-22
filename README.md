@@ -1,17 +1,17 @@
-# Aramis 隐私政策
+# Política de Privacidade Aramis
 
-Aramis 非常重视您的隐私。所有使用产生的数据只会存储在设备本地，不会有任何数据上传（Aramis 是一个完全的本地单机应用，甚至没有远程服务器）。并且没有任何的用户行为或者应用使用统计数据产生或上传。
-
-
-本文内容或者在线存储服务中所涉及的三方品牌及标识提及均为文字引用，与相关品牌及商标无关。
+Aramis leva sua privacidade muito a sério. Todos os dados gerados pelo uso são armazenados apenas localmente no dispositivo e nenhum dado é carregado (Aramis é uma aplicação independente completamente local, nem mesmo um servidor remoto). E nenhum comportamento de usuário ou estatísticas de uso de aplicativos são gerados ou carregados.
 
 
-
-### 我们收集或者访问哪些个人信息
-
-- Aramis 不会对任何数据进行在线统计或者上传，您可以随时随地查看、删除它们或者导出处理，您对所有的数据拥有唯一且完全的掌控。
-
-- 在您进行保存数据到相册的操作时，应用会向您询问相册访问权限。
+Todas as referências a marcas e logotipos de terceiros no conteúdo deste documento ou no serviço de armazenamento on-line são referências literais e não estão associadas às marcas ou marcas em questão.
 
 
-我们可能随时对隐私政策进行更新。如果隐私政策作出重大变更，我们将在 App 内通告更新的隐私政策。
+
+### Que informações pessoais coletamos ou acessamos
+
+- Aramis não conta ou carrega nenhum dado on-line, você pode visualizá-los, apagá-los ou exportá-los para processamento a qualquer momento e de qualquer lugar, e você tem controle único e completo sobre todos os dados.
+
+- Quando você salva dados em um álbum, o aplicativo lhe pedirá acesso ao álbum.
+
+
+Podemos atualizar nossa política de privacidade a qualquer momento. Se houver mudanças significativas na política de privacidade, nós o notificaremos sobre a política de privacidade atualizada dentro da aplicação.
